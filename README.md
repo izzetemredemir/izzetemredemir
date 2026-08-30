@@ -1,12 +1,8 @@
-# İzzet Emre Demir
-
-Building [First Point](https://firstpoint.com.tr), a product studio working on
-AI agents, games and blockchain.
+[![İzzet Emre Demir, building First Point: AI agents, games and blockchain.](./assets/header.svg)](https://izzetemredemir.com)
 
 ### Interests
 
-Zero-knowledge · Blockchain · Distributed systems · AI agents and LLMs ·
-Web security · DevOps
+`Zero-knowledge` `Blockchain` `Distributed systems` `AI agents` `LLMs` `Web security` `DevOps` `Mobile`
 
 ### Elsewhere
 

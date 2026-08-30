@@ -3,10 +3,6 @@
 Building [First Point](https://firstpoint.com.tr), a product studio working on
 AI agents, games and blockchain.
 
-Most of my time goes to zero-knowledge proofs, agent architectures and
-blockchain infrastructure. A lot of it lives in private repos, so what you see
-here is a thin slice.
-
 ### Interests
 
 Zero-knowledge · Blockchain · Distributed systems · AI agents and LLMs ·

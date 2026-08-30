@@ -16,6 +16,7 @@ Web security · DevOps
 
 - [izzetemredemir.com](https://izzetemredemir.com)
 - [Writing](https://izzetemredemir.com/blog/) ([RSS](https://izzetemredemir.com/rss.xml))
+- [LinkedIn](https://www.linkedin.com/in/izzet-emre-d-0664359b/)
 - [x.com/izzetemredemir](https://x.com/izzetemredemir)
 
 ### Contact

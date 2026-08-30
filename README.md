@@ -1,8 +1,8 @@
-[![İzzet Emre Demir, building First Point: AI agents, games and blockchain.](./assets/header.svg)](https://izzetemredemir.com)
+[![İzzet Emre Demir, building First Point: mobile apps, AI agents and blockchain.](./assets/header.svg)](https://izzetemredemir.com)
 
 ### Interests
 
-`Zero-knowledge` `Blockchain` `Distributed systems` `AI agents` `LLMs` `Web security` `DevOps` `Mobile`
+`Mobile development` `AI agents` `LLMs` `Blockchain` `Zero-knowledge` `Distributed systems` `Web security` `DevOps`
 
 ### Elsewhere
 

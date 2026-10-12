@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://izzetemredemir.com"><img src="./assets/header.svg" alt="İzzet Emre Demir, building First Point: mobile apps, AI agents and blockchain." /></a>
+  <a href="https://izzetemredemir.com"><img src="./assets/header.svg" alt="İzzet Emre Demir, now all-in on Your Next Tours, built at First Point." /></a>
 </p>
 
 <p align="center">
@@ -14,13 +14,15 @@
 
 ### About
 
-I was writing code and winning hackathons long before the AI wave: 8 hackathon prizes across Ethereum and Avalanche events, plus a critical bug bounty in the Avalanche Wallet. These days I build products at [**First Point**](https://firstpoint.com.tr?utm_source=github&utm_medium=profile), a small team from Türkiye shipping its own iOS & Android apps:
+I was writing code and winning hackathons long before the AI wave: 8 hackathon prizes across Ethereum and Avalanche events, plus a critical bug bounty in the Avalanche Wallet.
+
+**Now I'm all-in on [Your Next Tours](https://yournext.tours?utm_source=github&utm_medium=profile)**, built at [**First Point**](https://firstpoint.com.tr?utm_source=github&utm_medium=profile), a small team from Türkiye shipping its own iOS & Android apps. What I work on:
 
 - 📱 **Mobile apps & games**: iOS & Android, from everyday utilities to puzzle games
 - 🤖 **AI agents & LLMs**: MCP integrations and AI features inside real products
 - 🔐 **Zero-knowledge & security**: o1js on Mina, smart contracts, web security
 
-### Featured
+### Now building
 
 <table>
   <tr>

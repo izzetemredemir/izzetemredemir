@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="28" viewBox="0 0 92 28" role="img" aria-label="PGP key">
+  <title>PGP key</title>
+  <rect x="0.5" y="0.5" width="91" height="27" rx="7" fill="#0a0a0b" stroke="#2a2a30"/>
+  <svg x="10" y="7" width="14" height="14" viewBox="0 0 24 24"><g fill="none" stroke="#f0a429" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 5 6v5c0 4.2 2.8 7.6 7 9 4.2-1.4 7-4.8 7-9V6l-7-3Z"/><path d="m9 12 2 2 4-4"/></g></svg>
+  <text x="31" y="18.5" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" textLength="49.5" lengthAdjust="spacingAndGlyphs">PGP key</text>
+</svg>
